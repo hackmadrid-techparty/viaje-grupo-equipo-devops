@@ -2,12 +2,12 @@
 
 Presentación en la Tech Party 2019
 
-## Ponentes
+## Ponentes
 
 - [Pedro Amador Rodríguez Álvarez](https://www.linkedin.com/in/pamador/)
 - [Sergio Ortega Gómez](https://www.linkedin.com/in/sergioortegagomez/)
 
-## Material
+## Material
 
 - [Presentación en formato PDF](TechParty2019-El_Viaje_de_Grupo_a_Equipo_DevOps.pdf)
 - [Presentación en formato ODP](TechParty2019-El_Viaje_de_Grupo_a_Equipo_DevOps.odp)
