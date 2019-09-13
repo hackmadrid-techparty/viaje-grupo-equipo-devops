@@ -2,10 +2,14 @@
 
 Presentación en la Tech Party 2019
 
-## Ponentes
+## Equipo
 
-- [Pedro Amador Rodríguez Álvarez](https://www.linkedin.com/in/pamador/)
-- [Sergio Ortega Gómez](https://www.linkedin.com/in/sergioortegagomez/)
+|Nombre                                                                       |Rol                |
+|-----------------------------------------------------------------------------|-------------------|
+|[Elorriaga, Aitor](https://www.linkedin.com/in/aitor-elorriaga-elorza/)      |Dibujolari         |
+|[Gándara Núñez, Ana](https://www.linkedin.com/in/ana-gándara-núñez-7b93a919/)|Ideóloga de escenas|
+|[Ortega Gómez, Sergio](https://www.linkedin.com/in/sergioortegagomez/)       |Co-Charlatán       |
+|[Rodríguez Álvarez, Pedro Amador](https://www.linkedin.com/in/pamador/)      |Co-Charlatán       |
 
 ## Material
 
